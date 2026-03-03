@@ -6,7 +6,7 @@
 ![Hosting](https://img.shields.io/badge/Hosting-Netlify-success)
 ![Backend](https://img.shields.io/badge/Backend-Firebase-yellow)
 
-V.Chat is a realtime text-based chatting web application developed by **Vinit Kumar Patwa**.  
+V.Chat, also known as Vinit Chat, is a realtime text-based chatting web application developed by **Vinit Kumar Patwa**.  
 It provides fast messaging performance, a clean modern interface, and secure backend integration using Firebase.
 
 🌐 **Official App URL:**  
