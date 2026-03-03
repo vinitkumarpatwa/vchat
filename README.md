@@ -19,22 +19,15 @@ https://vinitkumarpatwa.netlify.app/apps/vchat/download/
 
 ## 📸 Application Preview
 
-### 🔐 Login Page
-
 <p align="center">
-  <img src="assets/login.png" 
-       alt="V.Chat Secure Login Page Interface Screenshot" 
-       width="800"/>
+  <strong>Login Page</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <strong>Main Chat Interface</strong>
 </p>
 
----
-
-### 💬 Main Chat Interface
-
 <p align="center">
-  <img src="assets/chat.png" 
-       alt="V.Chat Realtime Text Messaging Interface Screenshot" 
-       width="800"/>
+  <img src="assets/login.png" width="45%" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="assets/chat.png" width="45%" />
 </p>
 
 ---
