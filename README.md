@@ -1,4 +1,4 @@
-# V.Chat – Realtime Text-Based Chat Application
+# V.Chat – Real-Time Text-Based Chat Application
 
 ![Live](https://img.shields.io/badge/Live-Available-brightgreen)
 ![Version](https://img.shields.io/badge/Version-1.0-blue)
