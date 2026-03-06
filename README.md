@@ -86,11 +86,11 @@ It serves as both a functional application and a portfolio-level technical proje
 
 ## 👨‍💻 Developer
 
-**Vinit Kumar Patwa**
-Passionate Coder & UI Design Enthusiast
-Nalanda, Bihar, India
+**Vinit Kumar Patwa**  
+Passionate Coder & UI Design Enthusiast  
+Nalanda, Bihar, India  
 
-Portfolio:
+Portfolio:  
 https://vinitkumarpatwa.netlify.app/
 
 ---
